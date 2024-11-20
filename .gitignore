@@ -1,0 +1,3 @@
+.env
+packageenv/
+__pycache__/
